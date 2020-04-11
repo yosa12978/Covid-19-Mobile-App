@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tsziVKpkP9+3Wb2LJUP3aYnZTVcH/jEd3sGFc48zgbk8OJxHXCZ1rBMy4DYtWc/kkfh8N/eXU2vqQCWNJ98FA==",
+  "success": true,
+  "projectFilePath": "D:\\App's\\Covid19App\\Covid19.MobileApp\\Covid19.MobileApp.iOS\\Covid19.MobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

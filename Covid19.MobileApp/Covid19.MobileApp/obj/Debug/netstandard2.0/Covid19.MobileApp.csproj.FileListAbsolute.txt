@@ -1,0 +1,17 @@
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\Covid19.Log.dll
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.csprojAssemblyReference.cache
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.AssemblyInfoInputs.cache
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.AssemblyInfo.cs
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.csproj.CoreCompileInputs.cache
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\Covid19.MobileApp.deps.json
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\Covid19.MobileApp.dll
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\ref\Covid19.MobileApp.dll
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\Covid19.MobileApp.pdb
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\bin\Debug\netstandard2.0\Covid19.Log.pdb
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.csproj.CopyComplete
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.dll
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\ref\Covid19.MobileApp.dll
+D:\App's\Covid19App\Covid19.MobileApp\Covid19.MobileApp\obj\Debug\netstandard2.0\Covid19.MobileApp.pdb

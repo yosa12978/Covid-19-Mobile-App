@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Covid19.MobileApp.MainPage"
+             Title="Covid-19 Stats"
+             BackgroundColor="LightGray"
+             >
+
+    <StackLayout>
+        <Label x:Name="Title" FontSize="Title" TextColor="Black">Covid-19 Global Stats</Label>
+        <BoxView HeightRequest="2" BackgroundColor="DarkGray" />
+
+        <Button Text="Update" Clicked="Button_Clicked" BackgroundColor="SlateGray" TextColor="White"/>
+        
+        <Frame BackgroundColor="SlateGray" Padding="8" IsVisible="False" x:Name="MainFrame">
+            <StackLayout>
+                <Label x:Name="Cases" FontSize="Title" TextColor="White" Text="Cases"/>
+                <Label x:Name="Recovered" FontSize="Title" TextColor="White" Text="Recovered"/>
+                <Label x:Name="Deaths" FontSize="Title" TextColor="White" Text="Deaths"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

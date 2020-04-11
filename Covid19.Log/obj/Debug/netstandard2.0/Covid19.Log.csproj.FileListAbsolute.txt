@@ -1,0 +1,9 @@
+D:\App's\Covid19App\Covid19.Log\bin\Debug\netstandard2.0\Covid19.Log.deps.json
+D:\App's\Covid19App\Covid19.Log\bin\Debug\netstandard2.0\Covid19.Log.dll
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.AssemblyInfoInputs.cache
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.AssemblyInfo.cs
+D:\App's\Covid19App\Covid19.Log\bin\Debug\netstandard2.0\Covid19.Log.pdb
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.csprojAssemblyReference.cache
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.csproj.CoreCompileInputs.cache
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.dll
+D:\App's\Covid19App\Covid19.Log\obj\Debug\netstandard2.0\Covid19.Log.pdb
